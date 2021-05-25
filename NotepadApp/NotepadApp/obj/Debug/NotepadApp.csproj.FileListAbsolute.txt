@@ -1,0 +1,10 @@
+D:\one_team\TwoWaySwitchingApp\NotepadApp\NotepadApp\bin\Debug\NotepadApp.exe.config
+D:\one_team\TwoWaySwitchingApp\NotepadApp\NotepadApp\bin\Debug\NotepadApp.exe
+D:\one_team\TwoWaySwitchingApp\NotepadApp\NotepadApp\bin\Debug\NotepadApp.pdb
+D:\one_team\TwoWaySwitchingApp\NotepadApp\NotepadApp\obj\Debug\NotepadApp.csprojAssemblyReference.cache
+D:\one_team\TwoWaySwitchingApp\NotepadApp\NotepadApp\obj\Debug\NotepadApp.Form1.resources
+D:\one_team\TwoWaySwitchingApp\NotepadApp\NotepadApp\obj\Debug\NotepadApp.Properties.Resources.resources
+D:\one_team\TwoWaySwitchingApp\NotepadApp\NotepadApp\obj\Debug\NotepadApp.csproj.GenerateResource.cache
+D:\one_team\TwoWaySwitchingApp\NotepadApp\NotepadApp\obj\Debug\NotepadApp.csproj.CoreCompileInputs.cache
+D:\one_team\TwoWaySwitchingApp\NotepadApp\NotepadApp\obj\Debug\NotepadApp.exe
+D:\one_team\TwoWaySwitchingApp\NotepadApp\NotepadApp\obj\Debug\NotepadApp.pdb
